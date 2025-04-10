@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+jinja2
+pydantic
+python-dotenv
+boto3
+pinecone-client[pinecone]
+sentence-transformers==2.2.2
+tqdm
+pandas
